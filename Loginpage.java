@@ -15,6 +15,7 @@ import java.sql.Statement;
 public class Loginpage extends JFrame {
 
 	public Loginpage(){
+		setResizable(false);
 		initComponents();
 	}
  
