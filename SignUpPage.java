@@ -11,6 +11,7 @@ public class SignUpPage extends javax.swing.JFrame {
 
  
     public SignUpPage() {
+    	setResizable(false);
         initComponents();
     }
 
